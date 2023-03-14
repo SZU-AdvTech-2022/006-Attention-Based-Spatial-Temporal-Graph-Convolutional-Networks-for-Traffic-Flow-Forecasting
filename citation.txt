@@ -1,0 +1,9 @@
+@inproceedings{REPO-006,
+    author = "Guo, Shengnan and Lin, Youfang and Feng, Ning and Song, Chao and Wan, Huaiyu",
+    booktitle = "Proceedings of the AAAI conference on artificial intelligence",
+    number = "01",
+    pages = "922--929",
+    title = "{Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting}",
+    volume = "33",
+    year = "2019"
+}
